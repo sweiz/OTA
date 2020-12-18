@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1608283561,
+      "filename": "lineage-18.1-20201218-UNOFFICIAL-crownlte.zip",
+      "id": "edb4f94b29e432cb1cc6ebe3e284681e",
+      "romtype": "UNOFFICIAL",
+      "size": 598471669,
+      "url": "https://github.com/synt4x93/OTA/releases/download/18-12-2020/lineage-18.1-20201218-UNOFFICIAL-crownlte.zip",
+      "version": "18.1"
+    }
+  ]
+}
