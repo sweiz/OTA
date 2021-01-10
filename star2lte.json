@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1608739110,
-      "filename": "lineage-18.1-20201223-UNOFFICIAL-star2lte.zip",
-      "id": "62783ff379fe51a8d948cab27e351f5b",
+      "datetime": 1610262854,
+      "filename": "lineage-18.1-20210110-UNOFFICIAL-star2lte.zip",
+      "id": "338bbe4eb98da9b1b8d86c93ac5fc056",
       "romtype": "UNOFFICIAL",
-      "size": 601495006,
-      "url": "https://github.com/synt4x93/OTA/releases/download/23-12-2020/lineage-18.1-20201223-UNOFFICIAL-star2lte.zip",
+      "size": 604725821,
+      "url": "https://github.com/synt4x93/OTA/releases/download/10-01-2021/lineage-18.1-20210110-UNOFFICIAL-star2lte.zip",
       "version": "18.1"
     }
   ]
