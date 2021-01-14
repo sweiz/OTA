@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1610266940,
-      "filename": "lineage-18.1-20210110-UNOFFICIAL-starlte.zip",
-      "id": "0b21892395ef3c2977595ae5dacd9222",
+      "datetime": 1610624573,
+      "filename": "lineage-18.1-20210114-UNOFFICIAL-starlte.zip",
+      "id": "bd5fd758087bd329a19469fe5bd8bd7b",
       "romtype": "UNOFFICIAL",
-      "size": 604720722,
-      "url": "https://github.com/synt4x93/OTA/releases/download/10-01-2021/lineage-18.1-20210110-UNOFFICIAL-starlte.zip",
+      "size": 604699471,
+      "url": "https://github.com/synt4x93/OTA/releases/download/14-01-2021/lineage-18.1-20210114-UNOFFICIAL-starlte.zip",
       "version": "18.1"
     }
   ]
